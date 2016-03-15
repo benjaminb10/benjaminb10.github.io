@@ -1,6 +1,4 @@
-# benjaminb10.github.io
-
-## To do
+# To do
 [x] Add Stylus
 
 [] Add Livereload
